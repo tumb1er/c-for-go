@@ -1,4 +1,4 @@
-module github.com/xlab/c-for-go
+module github.com/tumb1er/c-for-go
 
 go 1.17
 
